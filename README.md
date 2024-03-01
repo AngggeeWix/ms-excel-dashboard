@@ -12,6 +12,7 @@ The Employee Dashboard provides valuable insights into employee demographics, em
 Visualizations: Stacked bar charts, pie chart, scatter plot, map and trend lines showcasing satisfaction scores across different departments and demographics.
 
 **Usage**
+
 Feel free to explore each dashboard by downloading the corresponding Excel file. You can interact with the data and customize the visualizations to suit your needs. 
 If you have any questions or feedback, don't hesitate to reach out!
 
