@@ -15,9 +15,8 @@ Visualizations: Stacked bar charts, pie chart, scatter plot, map and trend lines
 Feel free to explore each dashboard by downloading the corresponding Excel file. You can interact with the data and customize the visualizations to suit your needs. 
 If you have any questions or feedback, don't hesitate to reach out!
 
-**Employee Dashboard**
-https://github.com/AngggeeWix/ms-excel-dashboard/assets/159560080/c4c7edd9-7b92-4eb2-b393-edf6febf5125
+![Employee Dashboard](https://github.com/AngggeeWix/ms-excel-dashboard/assets/159560080/c4c7edd9-7b92-4eb2-b393-edf6febf5125)
 
-**Sales Dashboard**
-https://github.com/AngggeeWix/ms-excel-dashboard/assets/159560080/5e774996-2a12-4e74-aa41-be6a9538c66e
+![Sales Dashboard](https://github.com/AngggeeWix/ms-excel-dashboard/assets/159560080/5e774996-2a12-4e74-aa41-be6a9538c66e)
+
 
