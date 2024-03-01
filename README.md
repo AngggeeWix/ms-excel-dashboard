@@ -7,7 +7,7 @@ Welcome to my Portfolio! In this repository, you'll find a collection of Excel d
 This dashboard provides an overview of sales performance.
 Visualizations: Bar charts, line graphs, and pie charts showing sales by region, product, and salesperson/managers.
 
-3. Employee Satisfaction Dashboard
+3. Employee Dashboard
 The Employee Dashboard provides valuable insights into employee demographics, employment details, and compensation metrics. 
 Visualizations: Stacked bar charts, pie chart, scatter plot, map and trend lines showcasing satisfaction scores across different departments and demographics.
 
