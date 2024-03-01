@@ -1,0 +1,16 @@
+**Overview**
+
+Welcome to my Portfolio! In this repository, you'll find a collection of Excel dashboards showcasing various visualizations of employee data. These dashboards were created using Microsoft Excel, demonstrating my skills in data visualization and analysis.
+
+**Dashboards**
+1. Sales Performance Dashboard
+This dashboard provides an overview of sales performance.
+Visualizations: Bar charts, line graphs, and pie charts showing sales by region, product, and salesperson/managers.
+
+3. Employee Satisfaction Dashboard
+The Employee Dashboard provides valuable insights into employee demographics, employment details, and compensation metrics. 
+Visualizations: Stacked bar charts, pie chart, scatter plot, map and trend lines showcasing satisfaction scores across different departments and demographics.
+
+**Usage**
+Feel free to explore each dashboard by downloading the corresponding Excel file. You can interact with the data and customize the visualizations to suit your needs. 
+If you have any questions or feedback, don't hesitate to reach out!
