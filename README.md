@@ -31,11 +31,6 @@ Top Performing Managers: Martha and Hermann emerged as the top-performing manage
 # Employee Dashboard
 **Work in Progress**
 
-The Employee Dashboard provides valuable insights into employee demographics, employment details, and compensation metrics. 
-Visualizations: Stacked bar charts, pie chart, scatter plot, map and trend lines showcasing satisfaction scores across different departments and demographics.
-
-![Employee Dashboard](https://github.com/AngggeeWix/ms-excel-dashboard/assets/159560080/c4c7edd9-7b92-4eb2-b393-edf6febf5125)
-
 **Usage**
 
 Feel free to explore each dashboard by downloading the corresponding Excel file. You can interact with the data and customize the visualizations to suit your needs. 
